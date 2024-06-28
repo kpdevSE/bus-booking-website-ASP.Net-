@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zp00qNM30EnArGYR5a1+VhW8vDoY0RdVUTy2RfiliUAI7Q9daKgXpP/PXhw0kKadzt4sJ41ZiRqslfuLdZjzdA==",
+  "dgSpecHash": "OiyThUY+t9S85M2DEgwOcjrvOVv9XFJo/dj+g5N1yKibdchiZMjIyAyvFvCseq7Cjz5VhW4Bh79uLJP9daXUKg==",
   "success": true,
   "projectFilePath": "/media/kanishka/New Volume/projetcs/SLTBBooking/SLTBBooking.csproj",
   "expectedPackageFiles": [
-    "/home/kanishka/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
-    "/home/kanishka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
-    "/home/kanishka/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+    "/home/kanishka/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kanishka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kanishka/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
   ],
   "logs": []
 }
